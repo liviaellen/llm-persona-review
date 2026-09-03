@@ -1,0 +1,25 @@
+Variable,Level,Total
+Effect,Positive,27
+Effect,Mixed,21
+Effect,Negative,22
+Study type,Evaluation,33
+Study type,Novel method,22
+Study type,LLM-as-a-Judge,14
+Study type,Literature review,1
+Year,2023,2
+Year,2024,23
+Year,2025,35
+Year,2026,10
+Human participants,Yes,36
+Human participants,No,34
+Research question,RQ1: persona effects on LLM/agent output,37
+Research question,RQ1 and RQ2,19
+Research question,RQ2: persona effects on LLM-as-a-Judge,14
+Model family*,GPT / OpenAI,33
+Model family*,Qwen,8
+Model family*,Gemma,7
+Model family*,Other,7
+Model family*,DeepSeek,5
+Model family*,LLaMA / LLaMA-based,5
+Model family*,Claude,4
+Model family*,GLM,1
