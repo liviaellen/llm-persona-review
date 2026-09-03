@@ -8,6 +8,12 @@ This repository holds the coded extraction table for the 70 papers included in t
 
 `data/persona_llm_review.csv` — one row per included paper (70 rows, 18 columns).
 
+## Statistical analysis
+
+The reproducible notebook summarizes corpus composition, calculates Wilson confidence intervals for coded effect proportions, and explores associations between effect direction, publication year, and study design using chi-square tests and Cramér's V.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liviaellen/llm-persona-review/blob/main/analysis/persona_review_statistical_analysis.ipynb)
+
 | Column | Description |
 | --- | --- |
 | `article_id` | Internal identifier (A01, A02, …) |
